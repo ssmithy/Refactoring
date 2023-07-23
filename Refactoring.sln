@@ -5,6 +5,8 @@ VisualStudioVersion = 17.4.33403.182
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Refactoring.Domain", "Refactoring.Domain\Refactoring.Domain.csproj", "{EE2CC8EF-AF16-4FC6-A635-2D47CCC7FF50}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Refactoring.Domain.Tests", "Refactoring.Domain.Tests\Refactoring.Domain.Tests.csproj", "{65041781-AB49-4C66-8F3D-C8F28CA6B018}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{EE2CC8EF-AF16-4FC6-A635-2D47CCC7FF50}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EE2CC8EF-AF16-4FC6-A635-2D47CCC7FF50}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EE2CC8EF-AF16-4FC6-A635-2D47CCC7FF50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65041781-AB49-4C66-8F3D-C8F28CA6B018}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65041781-AB49-4C66-8F3D-C8F28CA6B018}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65041781-AB49-4C66-8F3D-C8F28CA6B018}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65041781-AB49-4C66-8F3D-C8F28CA6B018}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
